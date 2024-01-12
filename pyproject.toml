@@ -26,7 +26,7 @@ requests = "^2.29.0"
 retrying = "*"
 selenium = "^4.9.0"
 streamlit-chat = { git = "https://github.com/AI-Yash/st-chat", rev = "ffb0583" }
-streamlit = "^1.21.0"
+streamlit = "^1.30.0"
 tls-client = "^0.2"
 twocaptcha = "^0.0.1"
 websocket-client = "^1.5.1"
